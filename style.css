@@ -315,7 +315,7 @@ form .btn2{
     background: #262626;
     font-weight: 300px;
     padding: 25px auto;
-    margin-top: 20px;
+    margin-top: 180px;
     margin-bottom: 5px;
 
 }
@@ -385,4 +385,9 @@ form .btn2{
     .contact-left,.contact-right{
         flex-basis: 100%;
     }
+}
+#msg{
+    color:#61b752 ;/*darkcyan*/
+    margin-top: -40px;
+    display: block;
 }
