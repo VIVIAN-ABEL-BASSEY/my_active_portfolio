@@ -325,12 +325,6 @@ form .btn2{
     .hero{
         column-count: 1;
     }
-    .tab-links{
-        margin-right: 13px;
-    }
-    .tab-titles{
-        margin: 0px 0px 0px;
-    }
     .header-text{
         font-size: 15px;
         margin-bottom: 70px;
@@ -340,9 +334,6 @@ form .btn2{
     }
     .about-col-1 img{
        display: none;
-    }
-    .about-col-2 p{
-        max-width: 100%;
     }
     nav svg{
         display: block;
@@ -385,19 +376,11 @@ form .btn2{
         grid-template-columns: auto;
     }
     #portfolio{
-        padding: 0px 0px;
-        /* padding: 35px 50px; */
-        margin:20% 0px 0px 0px;
-        /* margin: 10px 0px 50px; */
+        padding: 35px 50px;
+        margin: 100px 0px 50px;
     }
     .work-list{
         grid-template-columns: auto;
-        /* margin-right: 500px; */
-    }
-    .work{
-        /* max-width: 280px; */
-        width: 98%;
-        /* margin-right: 80%px; */
     }
     .contact-left,.contact-right{
         flex-basis: 100%;
